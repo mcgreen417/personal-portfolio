@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.6a1acf57.chunk.css",
+    "main.js": "/personal-portfolio/static/js/main.f4185a61.chunk.js",
+    "main.js.map": "/personal-portfolio/static/js/main.f4185a61.chunk.js.map",
+    "runtime-main.js": "/personal-portfolio/static/js/runtime-main.0e301abb.js",
+    "runtime-main.js.map": "/personal-portfolio/static/js/runtime-main.0e301abb.js.map",
+    "static/js/2.5bcc1101.chunk.js": "/personal-portfolio/static/js/2.5bcc1101.chunk.js",
+    "static/js/2.5bcc1101.chunk.js.map": "/personal-portfolio/static/js/2.5bcc1101.chunk.js.map",
+    "static/js/3.ae29549c.chunk.js": "/personal-portfolio/static/js/3.ae29549c.chunk.js",
+    "static/js/3.ae29549c.chunk.js.map": "/personal-portfolio/static/js/3.ae29549c.chunk.js.map",
+    "index.html": "/personal-portfolio/index.html",
+    "static/css/main.6a1acf57.chunk.css.map": "/personal-portfolio/static/css/main.6a1acf57.chunk.css.map",
+    "static/js/2.5bcc1101.chunk.js.LICENSE.txt": "/personal-portfolio/static/js/2.5bcc1101.chunk.js.LICENSE.txt",
+    "static/media/Michaela_Green_Profile_Picture.8b6a7869.jpg": "/personal-portfolio/static/media/Michaela_Green_Profile_Picture.8b6a7869.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e301abb.js",
+    "static/js/2.5bcc1101.chunk.js",
+    "static/css/main.6a1acf57.chunk.css",
+    "static/js/main.f4185a61.chunk.js"
+  ]
+}
