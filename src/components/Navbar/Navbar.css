@@ -1,7 +1,14 @@
+.menuIcon {
+    display: none;
+}
+
+.menuCurrentlyAt {
+    background-image: linear-gradient(90deg, #F8C5C5, #A793D1, #67A2E8);
+}
+
 .navbarItems {
     /* Make background color white when finished */
-    background-color: pink;
-    height: 80px;
+    background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,12 +17,37 @@
     font-size: 28px;
 }
 
-.navbarLogo {
+.navbarName {
     justify-self: start;
     margin-left: 20px;
     cursor: pointer;
 }
 
-.textHover {
-    color: linear-gradient(90deg, #F8C5C5, #A793D1, #67A2E8);;
+.navbarName:hover {
+    color: black;
+    border-radius: 4px;
+    transition: all 0.5s ease-out;
+}
+
+.navLinks {
+    color: #747474;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+.navLinks:hover {
+    color: black;
+    border-radius: 4px;
+    transition: all 0.5s ease-out;
+}
+
+.navMenu {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    grid-gap: 20px;
+    list-style: none;
+    text-align: center;
+    width: 70vw;
+    justify-content: end;
+    margin-right: 2rem;
 }
