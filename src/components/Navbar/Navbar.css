@@ -1,0 +1,21 @@
+.navbarItems {
+    /* Make background color white when finished */
+    background-color: pink;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Anaheim';
+    color: #747474;
+    font-size: 28px;
+}
+
+.navbarLogo {
+    justify-self: start;
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.textHover {
+    color: linear-gradient(90deg, #F8C5C5, #A793D1, #67A2E8);;
+}
