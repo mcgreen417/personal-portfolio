@@ -55,11 +55,12 @@
     font-family: 'Anaheim';
     color: #747474;
     font-size: 24px;
-    /*filter: drop-shadow(0px 10px 5px #DEDEDE);*/
+    filter: drop-shadow(0px 10px 5px rgba(0,0,0,0.15));
     justify-content: space-between;
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .navbarLogoContainer {
