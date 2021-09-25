@@ -7,7 +7,7 @@
     padding-bottom: 6px;
     border: solid;
     border-radius: 10px;
-    border-width: 2px;
+    border-width:  1.5px;
     border-color: #747474;
 }
 
@@ -55,7 +55,7 @@
     font-family: 'Anaheim';
     color: #747474;
     font-size: 24px;
-    filter: drop-shadow(0px 10px 5px rgba(0,0,0,0.15));
+    filter: drop-shadow(0px 10px 4px rgba(0,0,0,0.1));
     justify-content: space-between;
     padding-left: 30px;
     padding-right: 30px;

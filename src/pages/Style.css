@@ -1,0 +1,10 @@
+.bottomDecoration {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+.homepageFocus {
+    color: #747474;
+    text-align: center;
+}
