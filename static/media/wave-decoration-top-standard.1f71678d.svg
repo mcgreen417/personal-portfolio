@@ -1,0 +1,16 @@
+<svg width="386" height="185" viewBox="0 0 386 185" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0H386C163.25 79.6116 100.294 275.57 0 136V0Z" fill="url(#wave-decoration-top-standard)"/>
+<circle cx="101" cy="72" r="6" fill="white"/>
+<circle cx="43" cy="119" r="6" fill="white"/>
+<path d="M201.81 26.8191C202.049 26.0873 202.99 25.8885 203.505 26.4613L210.448 34.1939C210.962 34.7667 210.664 35.6814 209.91 35.8404L199.742 37.987C198.989 38.146 198.346 37.4301 198.585 36.6983L201.81 26.8191Z" fill="white"/>
+<path d="M87.4664 153.984C86.8046 154.377 85.9654 153.906 85.9558 153.136L85.8269 142.745C85.8173 141.975 86.6446 141.484 87.316 141.86L96.3798 146.944C97.0512 147.321 97.0631 148.283 96.4013 148.676L87.4664 153.984Z" fill="white"/>
+<rect x="45.7503" y="20.0375" width="12" height="11" rx="2" transform="rotate(23.9581 45.7503 20.0375)" fill="white"/>
+<rect x="158.914" y="83.9929" width="12" height="11" rx="2" transform="rotate(-9.20268 158.914 83.9929)" fill="white"/>
+<defs>
+<linearGradient id="wave-decoration-top-standard" x1="-1.61771e-06" y1="92.4132" x2="386" y2="92.4132" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F8C5C5"/>
+<stop offset="0.5125" stop-color="#A793D1"/>
+<stop offset="1" stop-color="#67A2E8"/>
+</linearGradient>
+</defs>
+</svg>
