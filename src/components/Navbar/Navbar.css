@@ -24,7 +24,7 @@
 }
 
 .menuCurrentlyAt {
-    background-image: linear-gradient(90deg, #F8C5C5, #A793D1, #67A2E8);
+    font-weight: bold;
 }
 
 .menuContainer {
