@@ -1,26 +1,77 @@
-.menuIcon {
-    display: none;
+.menuButton {
+    color: #747474;
+    text-decoration: none;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    border: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: #747474;
+}
+
+.menuButton:hover {
+    color: white;
+    background-image: linear-gradient(90deg, #F8C5C5, #A793D1, #67A2E8);
+    border: none;
+    transition: 0s;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    
 }
 
 .menuCurrentlyAt {
     background-image: linear-gradient(90deg, #F8C5C5, #A793D1, #67A2E8);
 }
 
-.navbarItems {
+.menuContainer {
+    justify-content: flex-end;
+}
+
+.menuIcon {
+    display: none;
+}
+
+.menuLinks {
+    color: #747474;
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+.menuLinks:hover {
+    color: black;
+    border-radius: 4px;
+    transition: all 0.5s ease-out;
+}
+
+.navbarContainer {
     /* Make background color white when finished */
     background-color: white;
     display: flex;
-    justify-content: center;
     align-items: center;
     font-family: 'Anaheim';
     color: #747474;
-    font-size: 28px;
+    font-size: 24px;
+    /*filter: drop-shadow(0px 10px 5px #DEDEDE);*/
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+}
+
+.navbarLogoContainer {
+    display: flex;
+    align-items: center;
 }
 
 .navbarName {
-    justify-self: start;
     margin-left: 20px;
     cursor: pointer;
+    text-decoration: none;
+    color: #747474;
 }
 
 .navbarName:hover {
@@ -29,25 +80,12 @@
     transition: all 0.5s ease-out;
 }
 
-.navLinks {
-    color: #747474;
-    text-decoration: none;
-    padding: 0.5rem 1rem;
-}
-
-.navLinks:hover {
-    color: black;
-    border-radius: 4px;
-    transition: all 0.5s ease-out;
+.navbarLogo {
+    height: 4rem;
+    width: auto;
 }
 
 .navMenu {
-    display: grid;
-    grid-template-columns: repeat(5, auto);
-    grid-gap: 20px;
+    display: flex;
     list-style: none;
-    text-align: center;
-    width: 70vw;
-    justify-content: end;
-    margin-right: 2rem;
 }
