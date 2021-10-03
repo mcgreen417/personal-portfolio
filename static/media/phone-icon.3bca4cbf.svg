@@ -1,0 +1,11 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<ellipse cx="15.95" cy="16" rx="15.95" ry="16" fill="url(#phoneIconGradient)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20 5H12C10.62 5 9.5 6.12 9.5 7.5V24.5C9.5 25.88 10.62 27 12 27H20C21.38 27 22.5 25.88 22.5 24.5V7.5C22.5 6.12 21.38 5 20 5ZM16 26C15.17 26 14.5 25.33 14.5 24.5C14.5 23.67 15.17 23 16 23C16.83 23 17.5 23.67 17.5 24.5C17.5 25.33 16.83 26 16 26ZM11.5 22H20.5V8H11.5V22Z" fill="white"/>
+<defs>
+<linearGradient id="phoneIconGradient" x1="-1.33691e-07" y1="16" x2="31.9" y2="16" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F8C5C5"/>
+<stop offset="0.5125" stop-color="#A793D1"/>
+<stop offset="1" stop-color="#67A2E8"/>
+</linearGradient>
+</defs>
+</svg>
