@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.adaa5b61.chunk.css",
+    "main.css": "/personal-portfolio/static/css/main.230ca9e8.chunk.css",
     "main.js": "/personal-portfolio/static/js/main.f630e885.chunk.js",
     "main.js.map": "/personal-portfolio/static/js/main.f630e885.chunk.js.map",
     "runtime-main.js": "/personal-portfolio/static/js/runtime-main.05c59176.js",
@@ -10,7 +10,7 @@
     "static/js/3.a03861cf.chunk.js": "/personal-portfolio/static/js/3.a03861cf.chunk.js",
     "static/js/3.a03861cf.chunk.js.map": "/personal-portfolio/static/js/3.a03861cf.chunk.js.map",
     "index.html": "/personal-portfolio/index.html",
-    "static/css/main.adaa5b61.chunk.css.map": "/personal-portfolio/static/css/main.adaa5b61.chunk.css.map",
+    "static/css/main.230ca9e8.chunk.css.map": "/personal-portfolio/static/css/main.230ca9e8.chunk.css.map",
     "static/js/2.c551f1f4.chunk.js.LICENSE.txt": "/personal-portfolio/static/js/2.c551f1f4.chunk.js.LICENSE.txt",
     "static/media/education-icon.6f564fdb.svg": "/personal-portfolio/static/media/education-icon.6f564fdb.svg",
     "static/media/facebook-logo.d0ab3df9.svg": "/personal-portfolio/static/media/facebook-logo.d0ab3df9.svg",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.05c59176.js",
     "static/js/2.c551f1f4.chunk.js",
-    "static/css/main.adaa5b61.chunk.css",
+    "static/css/main.230ca9e8.chunk.css",
     "static/js/main.f630e885.chunk.js"
   ]
 }
